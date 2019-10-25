@@ -1,0 +1,11 @@
+/Users/dillons-mac/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld
+/Users/dillons-mac/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.deps.json
+/Users/dillons-mac/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.runtimeconfig.json
+/Users/dillons-mac/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.runtimeconfig.dev.json
+/Users/dillons-mac/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.dll
+/Users/dillons-mac/HelloWorld/bin/Debug/netcoreapp3.0/HelloWorld.pdb
+/Users/dillons-mac/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.csprojAssemblyReference.cache
+/Users/dillons-mac/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/dillons-mac/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.AssemblyInfo.cs
+/Users/dillons-mac/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.dll
+/Users/dillons-mac/HelloWorld/obj/Debug/netcoreapp3.0/HelloWorld.pdb
